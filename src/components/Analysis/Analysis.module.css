@@ -1,0 +1,63 @@
+.analysis {
+  padding: 20px;
+}
+.analysisHeader {
+  display: flex;
+  align-items: center;
+}
+.backButton {
+  font-size: 20px;
+  padding: 5px 10px;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: transparent;
+  color: var(--color-primary);
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dropdown {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+}
+.values {
+  display: flex;
+  /* padding: 15px; */
+  align-items: center;
+  justify-content: center;
+}
+.valueBox {
+  margin-left: 15px;
+  padding: 5px;
+  border: 0.5px solid black;
+  min-width: 180px;
+  color: #fff;
+}
+.formContainer {
+  padding: 20px;
+}
+
+.formRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.formGroup {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.formGroup:last-child {
+  margin-right: 0;
+}
+
+.formInput {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 56px; /* Consistent height with other inputs */
+}

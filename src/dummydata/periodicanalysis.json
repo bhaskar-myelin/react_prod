@@ -1,0 +1,178 @@
+[
+  {
+    "Sno": 1,
+    "Yearly": 2003,
+    "Yearly Highest": 58.79,
+    "Yearly Lowest": 26.96,
+    "Yearly Opening": 55.54,
+    "Yearly Closing": 58.06
+  },
+  {
+    "Sno": 2,
+    "Yearly": 2004,
+    "Yearly Highest": 77.41,
+    "Yearly Lowest": 41.58,
+    "Yearly Opening": 58.9,
+    "Yearly Closing": 75.13
+  },
+  {
+    "Sno": 3,
+    "Yearly": 2005,
+    "Yearly Highest": 93.41,
+    "Yearly Lowest": 57.89,
+    "Yearly Opening": 75.68,
+    "Yearly Closing": 92.98
+  },
+  {
+    "Sno": 4,
+    "Yearly": 2006,
+    "Yearly Highest": 122.1,
+    "Yearly Lowest": 78.16,
+    "Yearly Opening": 92.65,
+    "Yearly Closing": 121.59
+  },
+  {
+    "Sno": 5,
+    "Yearly": 2007,
+    "Yearly Highest": 136.71,
+    "Yearly Lowest": 87.23,
+    "Yearly Opening": 122.72,
+    "Yearly Closing": 105.49
+  },
+  {
+    "Sno": 6,
+    "Yearly": 2008,
+    "Yearly Highest": 106.18,
+    "Yearly Lowest": 43.89,
+    "Yearly Opening": 103.55,
+    "Yearly Closing": 46.84
+  },
+  {
+    "Sno": 7,
+    "Yearly": 2009,
+    "Yearly Highest": 139.35,
+    "Yearly Lowest": 40.32,
+    "Yearly Opening": 49.8,
+    "Yearly Closing": 136.46
+  },
+  {
+    "Sno": 8,
+    "Yearly": 2010,
+    "Yearly Highest": 164.34,
+    "Yearly Lowest": 125.47,
+    "Yearly Opening": 139.23,
+    "Yearly Closing": 164.3
+  },
+  {
+    "Sno": 9,
+    "Yearly": 2011,
+    "Yearly Highest": 162.67,
+    "Yearly Lowest": 106.94,
+    "Yearly Opening": 161.56,
+    "Yearly Closing": 133.35
+  },
+  {
+    "Sno": 10,
+    "Yearly": 2012,
+    "Yearly Highest": 150.29,
+    "Yearly Lowest": 110.36,
+    "Yearly Opening": 133.45,
+    "Yearly Closing": 131.95
+  },
+  {
+    "Sno": 11,
+    "Yearly": 2013,
+    "Yearly Highest": 209.7,
+    "Yearly Lowest": 121.86,
+    "Yearly Opening": 132.75,
+    "Yearly Closing": 209.7
+  },
+  {
+    "Sno": 12,
+    "Yearly": 2014,
+    "Yearly Highest": 231.94,
+    "Yearly Lowest": 180.77,
+    "Yearly Opening": 207.26,
+    "Yearly Closing": 208.2
+  },
+  {
+    "Sno": 13,
+    "Yearly": 2015,
+    "Yearly Highest": 252.17,
+    "Yearly Lowest": 196.2,
+    "Yearly Opening": 207.15,
+    "Yearly Closing": 209.96
+  },
+  {
+    "Sno": 14,
+    "Yearly": 2016,
+    "Yearly Highest": 225.47,
+    "Yearly Lowest": 163.93,
+    "Yearly Opening": 208.67,
+    "Yearly Closing": 177.92
+  },
+  {
+    "Sno": 15,
+    "Yearly": 2017,
+    "Yearly Highest": 235.69,
+    "Yearly Lowest": 170.87,
+    "Yearly Opening": 176.83,
+    "Yearly Closing": 235.69
+  },
+  {
+    "Sno": 16,
+    "Yearly": 2018,
+    "Yearly Highest": 255.52,
+    "Yearly Lowest": 191.44,
+    "Yearly Opening": 237.41,
+    "Yearly Closing": 248.14
+  },
+  {
+    "Sno": 17,
+    "Yearly": 2019,
+    "Yearly Highest": 299.15,
+    "Yearly Lowest": 233.5,
+    "Yearly Opening": 244.99,
+    "Yearly Closing": 245.8
+  },
+  {
+    "Sno": 18,
+    "Yearly": 2020,
+    "Yearly Highest": 386.25,
+    "Yearly Lowest": 162.35,
+    "Yearly Opening": 247.7,
+    "Yearly Closing": 386.25
+  },
+  {
+    "Sno": 19,
+    "Yearly": 2021,
+    "Yearly Highest": 715.35,
+    "Yearly Lowest": 388.1,
+    "Yearly Opening": 388.1,
+    "Yearly Closing": 715.35
+  },
+  {
+    "Sno": 20,
+    "Yearly": 2022,
+    "Yearly Highest": 721.5,
+    "Yearly Lowest": 375.1,
+    "Yearly Opening": 718.7,
+    "Yearly Closing": 392.75
+  },
+  {
+    "Sno": 21,
+    "Yearly": 2023,
+    "Yearly Highest": 471.3,
+    "Yearly Lowest": 356.2,
+    "Yearly Opening": 393.05,
+    "Yearly Closing": 471.3
+  },
+  {
+    "Sno": 22,
+    "Yearly": 2024,
+    "Yearly Highest": 494.6,
+    "Yearly Lowest": 448.2,
+    "Yearly Opening": 477.15,
+    "Yearly Closing": 488.15
+  }
+]

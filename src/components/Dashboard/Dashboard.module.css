@@ -1,0 +1,50 @@
+.dashboard {
+  padding: 20px;
+}
+.buttonsRow {
+  display: flex;
+  justify-content: center; /* Centers buttons horizontally */
+  gap: 20px; /* Sets a gap of 20px between each button */
+  margin-bottom: 20px; /* Optional: Adds spacing between the button row and the next element */
+}
+.buttonsRow button {
+  background-color: var(--color-primary); /* Sets the background color */
+  color: white; /* Sets the text color to white for better contrast */
+  padding: 15px 15px; /* Adds padding inside the button */
+  border: none; /* Removes the border */
+  border-radius: 5px; /* Optional: Rounds the corners of the button */
+  cursor: pointer; /* Changes the cursor to a pointer on hover */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  font-size: 1.2rem;
+}
+.dashboardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.uploadButton {
+  background-color: var(--color-primary);
+  color: #fff;
+  padding: 10px 10px;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+.alphabetButtonsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.letterButton {
+  min-width: 20px;
+}
+
+.searchContainer {
+  margin-bottom: 20px;
+}
+
+.searchBox {
+  width: 100%;
+}

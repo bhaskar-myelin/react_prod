@@ -1,0 +1,42 @@
+.upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.uploadForm {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.uploadHeader {
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px; /* Padding to create a gap from the left edge */
+}
+.uploadHeader h1 {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  left: 0;
+}
+.backButton {
+  z-index: 2;
+  background-color: transparent;
+  color: var(--color-primary);
+  border: none;
+  cursor: pointer;
+}
+.top-alert {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1500; /* Ensure it's above other elements */
+  width: 50%; /* Set the alert width to 50% of the viewport width */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Optional: adds shadow for better visibility */
+}
